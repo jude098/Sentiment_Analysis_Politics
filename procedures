@@ -1,0 +1,19 @@
+What's sentiment analysis
+#Evaluating/Determining if a product/movie review, tweet (a writing) is positive, negative or neutral
+
+#How to collect the data?
+#Via Twitter API
+#Complicated? Yes, since you need to apply and be approved by Twitter to become a twitter app developer 
+#by really stating the use case, which public entity will
+#see the information from the Twitter data collected, etc
+#I was reading that it takes 2 weeks to get approve, but I was lucky to be within hrs 
+
+#After getting approved, you can create your app, which will collect the public tweets of the people you want to collect,
+#in my case the 4 candidates
+
+#importing pertinent libraries
+
+#importing tweety for Pycharm was a pain, since even though I was doing alt + enter over the tweepy and textblolb 
+#into PyCharm it would still tell me that it couldn't find the module
+#Since Conda is integrated in PyCharm, I added tweepy and textblob packages into Conda's cloud first, then went into PyCharm
+# under Preferences, added from Conda environment the packages freshly downloaded and added them into PyCharm
