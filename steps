@@ -1,0 +1,6 @@
+#Getting the data via Twitter API
+#Cleaning the data (remove hashtagd, etc.)
+#Merging csv documents (if applicable)
+#Label the data into positive, negative and neutral
+#Model training: Naive Bayes
+#Results/Accuracy
