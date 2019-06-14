@@ -6,6 +6,7 @@
 #Complicated? Yes, since you need to apply and be approved by Twitter to become a twitter app developer 
 #by really stating the use case, which public entity will see the information from the Twitter data collected, etc
 #I was reading that it takes 2 weeks to get approve, but I was lucky to be within hrs 
+#NB: Twitter limits the maximum number of tweets returned per search to 100
 
 #After getting approved, you can create your app, which will collect the public tweets of the # you want to collect,
 #in my case the 4 candidates
